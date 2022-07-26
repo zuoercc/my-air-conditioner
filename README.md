@@ -11,7 +11,7 @@ Air Conditioner
 云空调，便携小空调，为你的夏日带去清凉！
 </p>
 <br>
-
+项目源自：https://github.com/YunYouJun/air-conditioner
 ## Features
 
 ### 优势
@@ -45,7 +45,6 @@ Air Conditioner
     - [x] 工作声
     - [ ] 接入 [喜马拉雅](https://m.ximalaya.com/sleepaudio/6?mixedTrackIds=331526646&utm_source=smxkt) 更多音效
 - [x] 适应系统的亮暗模式
-项目源自：https://github.com/YunYouJun/air-conditioner
 ## Ref
 
 - 数字字体: [Digital 7](https://www.dafont.com/digital-7.font)，Free for personal use
