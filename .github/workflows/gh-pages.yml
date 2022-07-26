@@ -3,33 +3,25 @@ name: Github Pages
 on:
   push:
     branches:
-      - main # Set a branch name to trigger deployment
+      - main 
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-        
-      - uses: pnpm/action-setup@v2
-        with:
-          version: 7
 
-      - name: Set node version to ${{ matrix.node_version }}
-        uses: actions/setup-node@v3
+      - name: Setup Node
+        uses: actions/setup-node@v1
         with:
-          node-version: ${{ matrix.node_version }}
-          cache: 'pnpm'
-
-      - name: Install Dependencies
-        run: pnpm install --frozen-lockfile
+          node-version: "12.x"
 
       - name: Build
-        run: pnpm run build
+        run: yarn && yarn build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: ./build
           force_orphan: true
