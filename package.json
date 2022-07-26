@@ -1,12 +1,12 @@
 {
   "name": "air-conditioner",
-  "description": "云空调，便携小空调",
+  "description": "云游君牌云空调",
   "version": "0.1.3",
   "private": true,
   "author": {
-    "url": "https://www.yunyoujun.cn",
-    "email": "me@yunyoujun.cn",
-    "name": "YunYouJun"
+    "url": "https://boke-2g4o8blyec5b826b-1310049694.ap-shanghai.app.tcloudbase.com/archives/tu-pian-fen-xiang55",
+    "email": "zuoercc@qq.com",
+    "name": "zuoercc"
   },
   "scripts": {
     "dev": "vite",
@@ -30,9 +30,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/YunYouJun/air-conditioner"
+    "url": "https://github.com/zuoercc/my-air-conditioner"
   },
-  "homepage": "https://ac.yunyoujun.cn/",
+  "homepage": "https://boke-2g4o8blyec5b826b-1310049694.ap-shanghai.app.tcloudbase.com/archives/tu-pian-fen-xiang55",
   "dependencies": {
     "@emotion/react": "^11.9.0",
     "@emotion/styled": "^11.8.1",
