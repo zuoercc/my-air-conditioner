@@ -12,7 +12,7 @@ Air Conditioner
 </p>
 <br>
 项目源自：https://github.com/YunYouJun/air-conditioner
-
+快速链接https://zuoercc.github.io/my-air-conditioner/
 ## Features
 
 ### 优势
