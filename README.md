@@ -33,7 +33,7 @@ Air Conditioner
 ### iframe
 
 ```html
-<iframe height="740" src="https://ac.yunyoujun.cn"></iframe>
+<iframe height="740" src="https://zuoercc.github.io/my-air-conditioner/"></iframe>
 ```
 ## Todo
 
@@ -44,20 +44,10 @@ Air Conditioner
   - [x] 音效
     - [x] 按钮
     - [x] 工作声
-    - [ ] 接入 [喜马拉雅](https://m.ximalaya.com/sleepaudio/6?mixedTrackIds=331526646&utm_source=smxkt) 更多音效
 - [x] 适应系统的亮暗模式
 ## Ref
 
 - 数字字体: [Digital 7](https://www.dafont.com/digital-7.font)，Free for personal use
 - 空调工作声: [Air Extractor Fan | freesound](https://freesound.org/people/InspectorJ/sounds/403664/)
-
-## [Sponsors](https://sponsors.yunyoujun.cn)
-
-<p align="center">
-  <a href="https://sponsors.yunyoujun.cn">
-    <img src='https://fastly.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg'/>
-  </a>
-</p>
-
 ### 致谢
 [云游君](https://www.yunyoujun.cn/)
